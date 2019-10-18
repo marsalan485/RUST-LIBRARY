@@ -1,0 +1,1 @@
+/home/arsalan/Desktop/My_IOT_LIBARAY/My_Rust_Library/my_function/target/package/my_function-0.1.0/target/debug/libmy_function.rlib: /home/arsalan/Desktop/My_IOT_LIBARAY/My_Rust_Library/my_function/target/package/my_function-0.1.0/src/lib.rs

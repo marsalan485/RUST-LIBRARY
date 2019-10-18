@@ -1,0 +1,12 @@
+[package]
+name = "streverse"
+version = "0.1.0"
+authors = ["muhammadarsalanmirza <marsalan485@gmail.com>"]
+edition = "2018"
+description = "It is a simple and easy function.By using this function you can reverse any string"
+repository ="https://github.com/muhammadarsalanmirza/My_Rust_Library"
+license ="MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
